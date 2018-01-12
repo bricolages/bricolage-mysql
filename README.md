@@ -10,7 +10,7 @@ https://github.com/bricolages/bricolage-mysql
 
 Add following line in your Gemfile:
 ```
-gem 'bricolage-mysql', require: 'bricolage-mysql'
+gem 'bricolage-mysql'
 ```
 
 ## License
