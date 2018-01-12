@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.platform = Gem::Platform::RUBY
-  s.name = 'bricolage'
+  s.name = 'bricolage-mysql'
   s.version = '5.26.0'
   s.summary = 'MySQL-related job classes for Bricolage batch framework'
   s.license = 'MIT'
