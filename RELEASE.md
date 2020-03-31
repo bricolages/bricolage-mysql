@@ -1,5 +1,9 @@
 # bricolage-mysql gem release note
 
+## version 5.27.2
+
+- [mys3dump] Support reserved words for column name.
+
 ## version 5.27.1
 
 - [fix] mys3dup throws java.lang.NoSuchMethodError on some JDK version.
