@@ -1,5 +1,13 @@
 # bricolage-mysql gem release note
 
+## version 5.27.4
+
+- Update mys3dump to the version with security fix
+
+## version 5.27.3
+
+- [mys3dump] Avoid SQL syntax error when a table doesn't exist
+
 ## version 5.27.2
 
 - [mys3dump] Support reserved words for column name.
