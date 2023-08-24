@@ -15,4 +15,5 @@ Gem::Specification.new do |s|
   s.required_ruby_version = '>= 2.2.0'
   s.add_dependency 'bricolage', '>= 5.26.0'
   s.add_dependency 'mysql2'
+  s.add_development_dependency 'rake'
 end
