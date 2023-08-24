@@ -1,5 +1,10 @@
 # bricolage-mysql gem release note
 
+## version 5.27.5
+
+- Force sqldump to use Bash
+- Add Gemfile and Rakefile
+
 ## version 5.27.4
 
 - Update mys3dump to the version with security fix
